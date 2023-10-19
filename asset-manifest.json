@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/https//NawazT.github.io/crypto_exchange_site/static/css/main.fd7957f9.css",
+    "main.js": "/https//NawazT.github.io/crypto_exchange_site/static/js/main.3888f0b7.js",
+    "static/media/trade.png": "/https//NawazT.github.io/crypto_exchange_site/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/pattern-1.png": "/https//NawazT.github.io/crypto_exchange_site/static/media/pattern-1.408befba265ad92810b8.png",
+    "static/media/image-5.jpg": "/https//NawazT.github.io/crypto_exchange_site/static/media/image-5.982eb7e9c246df026f10.jpg",
+    "static/media/pattern-2.png": "/https//NawazT.github.io/crypto_exchange_site/static/media/pattern-2.8d5b376cc17473a5a411.png",
+    "static/media/David_Kim.jpg": "/https//NawazT.github.io/crypto_exchange_site/static/media/David_Kim.52886267dcecdde7d549.jpg",
+    "static/media/2.png": "/https//NawazT.github.io/crypto_exchange_site/static/media/2.24c2e00780e1ee4ca4e0.png",
+    "index.html": "/https//NawazT.github.io/crypto_exchange_site/index.html",
+    "main.fd7957f9.css.map": "/https//NawazT.github.io/crypto_exchange_site/static/css/main.fd7957f9.css.map",
+    "main.3888f0b7.js.map": "/https//NawazT.github.io/crypto_exchange_site/static/js/main.3888f0b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd7957f9.css",
+    "static/js/main.3888f0b7.js"
+  ]
+}
