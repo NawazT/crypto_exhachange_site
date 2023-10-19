@@ -2,7 +2,7 @@
   "homepage": "https//NawazT.github.io/crypto_exchange_site",
   "name": "crypto-marketplace",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@babel/runtime": "^7.18.3",
     "@emotion/react": "^11.9.3",
